@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\matinal\Desktop\noticiasDeportes-master-b364b03bec47f8a7e8942e66e26f8d794af924ed\NoticiasDeportes.iml" filepath="C:\Users\matinal\Desktop\noticiasDeportes-master-b364b03bec47f8a7e8942e66e26f8d794af924ed\NoticiasDeportes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\matinal\Desktop\noticiasDeportes-master-b364b03bec47f8a7e8942e66e26f8d794af924ed\app\app.iml" filepath="C:\Users\matinal\Desktop\noticiasDeportes-master-b364b03bec47f8a7e8942e66e26f8d794af924ed\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/noticiasDeportes-master-b364b03bec47f8a7e8942e66e26f8d794af924ed.iml" filepath="$PROJECT_DIR$/noticiasDeportes-master-b364b03bec47f8a7e8942e66e26f8d794af924ed.iml" />
+    </modules>
+  </component>
+</project>
